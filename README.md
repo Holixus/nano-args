@@ -5,6 +5,8 @@
 [![Downloads][downloads-image]][downloads-url]
 
 # nano-args
+
+[![Join the chat at https://gitter.im/Holixus/nano-args](https://badges.gitter.im/Holixus/nano-args.svg)](https://gitter.im/Holixus/nano-args?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Process arguments parsing helper function
 
 ## API
