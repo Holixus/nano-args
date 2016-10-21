@@ -1,6 +1,6 @@
 {
   "name": "nano-args",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Process arguments parsing helper function",
   "keywords" : [ "args" ],
   "main": "index.js",
