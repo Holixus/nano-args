@@ -19,7 +19,7 @@ Process arguments parsing helper function
   1. long option name and 'type'
   2. option description
 
-There is more details about options format in docs for [node-getopt](https://github.com/jiangmiao/node-getopt).
+There are more details about options format in docs for [node-getopt](https://github.com/jiangmiao/node-getopt).
 
 ## Example
 
